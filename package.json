@@ -1,0 +1,25 @@
+{
+  "name": "bp-watcher",
+  "version": "1.0.0",
+  "description": "Watch BibleProject.com Careers page for changes in openings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no-repo"
+  },
+  "keywords": [
+    "some",
+    "key",
+    "words"
+  ],
+  "author": "author",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "puppeteer": "^16.2.0",
+    "twilio": "^3.80.1"
+  }
+}
